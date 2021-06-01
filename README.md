@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### My name is `Ngala` . 
 
-#### I am a noobie front end developer from `Kenya` :kenya: currently working with: : PHP, mySQL and Javascript.
+#### I am a junior developer from `Kenya` :kenya: currently working with: : PHP and Javascript.
  
 #### You can reach me on :love_letter: ngalamike21@gmail.com or on twitter: (https://twitter.com/bitchard). 
 
