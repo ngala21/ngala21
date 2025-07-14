@@ -1,15 +1,6 @@
 👋🏽 Hi, my name is Ngala Mike
 
-🎓 Recent graduate with a Bachelor's of Science in Information Technology (Dec 2023) & CCNA(Dec 2023)
-
-🌇 Syokimau, Kenya Native with a passion for Cyber Security
-
-💻 Currently upskilling & seeking for full-time work to grow my experience and skills while working and collaborating with talented individuals as an IT Specialist. As for my future, I hope to one day work as a Cyber Security Engineer and work with a diverse team to help secure systems and also mentor upcoming individuals in the Tech Space.
-
-🏔 In my free time you'll find me in the gym or biking/swimming or trying out new recipes. 
-
-💪🏽 I enjoy spending time with individuals who share my love for gym, gaming and everything tech. If that resonates with you, lets connect.
-
+I'm a Front End Software Engineer working with React JS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
