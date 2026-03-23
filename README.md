@@ -3,7 +3,7 @@
 # Hello World, 
 I'm Ngala Mike 👋🏽
 
-### Software Engineer · React · Node.js · Python · Electron · Aspiring Fullstack
+### Software Engineer · React · Node.js · Python · Electron · Aspiring Full Stack
 
 **📍 Nairobi, Kenya &nbsp;|&nbsp; 💼 @MFI &nbsp;|&nbsp; 🌐 [ngala.vercel.app](https://ngala.vercel.app)**
 
@@ -58,3 +58,14 @@ By day I'm building internal tools and customer-facing interfaces at **MFI**, on
 
 ---
 
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🌐 Portfolio](https://ngala.vercel.app) | Personal site showcasing my work & connecting with clients/employers | HTML · CSS · Vanilla JS |
+| [⚙️ VS Code Setup](https://github.com/ngala21/vs-code-setup) | My entire VS Code config — extensions, themes, keybindings | Docs |
+| [🍎 Mac Setup](https://github.com/ngala21/mac-setup) | Settings & apps for a fast, productive Mac workflow | Shell · Docs |
+| [🎨 CSS Config Files](https://github.com/ngala21/css-config-files) | Consistent CSS boilerplate for starting new projects | CSS |
+| [🧠 ALX Simple Quiz](https://github.com/ngala21/ALX_Simple_Quiz) | A browser-based quiz app built during ALX studies | JavaScript |
+
+---
