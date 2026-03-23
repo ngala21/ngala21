@@ -69,3 +69,20 @@ By day I'm building internal tools and customer-facing interfaces at **MFI**, on
 | [🧠 ALX Simple Quiz](https://github.com/ngala21/ALX_Simple_Quiz) | A browser-based quiz app built during ALX studies | JavaScript |
 
 ---
+
+## 🗺️ My Journey
+
+```
+2019 ──── Started binge watching web development (HTML, CSS, JavaScript)
+2020 ──── Built first projects; fell in love with making things for browsers
+2021 ──── Picked up React JS; started thinking in components
+2022 ──── Joined MFI as a Front End Engineer; real-world, production code
+2023 ──── Enrolled in ALX Software Engineering Programme
+2024 ──── Deepened React ecosystem knowledge; started sharing dev setups
+2025 ──── Going fullstack: Node.js APIs, Python scripting, Electron desktop apps
+  ↓
+2026 ──── Where I'm headed (see below 👇🏽)
+```
+
+---
+
