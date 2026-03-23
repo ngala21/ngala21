@@ -1,17 +1,17 @@
-👋🏽 Hi, my name is Ngala Mike
+<div align="center">
 
-I'm a Front End Software Engineer working with React JS
+# Hello World, 
+I'm Ngala Mike 👋🏽
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/robot👽" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="robot👽" height="30" width="40" /></a>
-<a href="https://twitter.com/___ngala___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___ngala___" height="30" width="40" /></a>
-<a href="https://instagram.com/@___ngala___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@___ngala___" height="30" width="40" /></a>
-</p>
+### Software Engineer · React · Node.js · Python · Electron · Aspiring Fullstack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngala21&show_icons=true&locale=en&layout=compact" alt="ngala21" /></p><br>
+**📍 Nairobi, Kenya &nbsp;|&nbsp; 💼 @MFI &nbsp;|&nbsp; 🌐 [ngala.vercel.app](https://ngala.vercel.app)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngala21&show_icons=true&locale=en" alt="ngala21" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ngala--mike-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ngala-mike-34775118a)
+[![Instagram](https://img.shields.io/badge/Instagram-___ngala___-E4405F?style=flat-square&logo=instagram)](https://instagram.com/___ngala___)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ngala.vercel.app-000?style=flat-square&logo=vercel)](https://ngala.vercel.app)
+[![GitHub followers](https://img.shields.io/github/followers/ngala21?style=flat-square&label=Followers&color=6e40c9)](https://github.com/ngala21)
 
+</div>
 
-
+---
