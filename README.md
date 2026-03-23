@@ -15,3 +15,14 @@ I'm Ngala Mike 👋🏽
 </div>
 
 ---
+
+## 🧑🏽‍💻 About Me
+
+I'm a **Software Engineer** with a strong frontend foundation in React, on a deliberate journey to become a fullstack engineer. I thrive at the intersection of design and engineering — turning ideas into polished, production-ready experiences across the web and desktop.
+
+By day I'm building internal tools and customer-facing interfaces at **MFI**, one of East Africa's leading tech solutions companies. By night I'm going deeper into Node.js backends, Python scripting, and Electron desktop apps — one project at a time.
+
+> *"My half done projects stay here for the world to see"* 😤 — but I'm working on that.
+
+---
+
