@@ -100,3 +100,16 @@ The goal: become a well-rounded **Fullstack Engineer** — someone who can take 
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ngala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngala21&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngala21&layout=compact&theme=radical&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ngala21&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
