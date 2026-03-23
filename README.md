@@ -86,3 +86,17 @@ By day I'm building internal tools and customer-facing interfaces at **MFI**, on
 
 ---
 
+## 🚀 Where I'm Headed
+
+I'm on a deliberate path to fullstack engineering, actively growing in:
+
+- **Node.js & Express** — building REST APIs, authentication flows, and server-side logic
+- **Python** — scripting, automation, and exploring data-driven backend services
+- **Electron.js** — shipping cross-platform desktop applications powered by web tech
+- **Databases** — PostgreSQL and MongoDB to own the full data layer
+- **Open Source** — contributing to projects I actually use every day
+
+The goal: become a well-rounded **Fullstack Engineer** — someone who can take a product from a blank canvas all the way to a shipped, production app on web *and* desktop, and eventually build and lead engineering teams across Africa and beyond.
+
+---
+
