@@ -113,3 +113,24 @@ The goal: become a well-rounded **Fullstack Engineer** — someone who can take 
 </div>
 
 ---
+
+
+## 💼 Open to Opportunities
+
+I'm available for:
+
+- 🖥️ **Fullstack Engineering roles** (React · Node.js · Python · Electron)
+- 🎨 **Frontend & UI work** — pixel-perfect, responsive, accessible interfaces
+- 🖱️ **Desktop app development** — cross-platform tools with Electron.js
+- 🌍 **Remote-friendly contracts** — African timezone (EAT, UTC+3)
+- 🤝 **Freelance projects** — startups, MVPs, dashboards, internal tools
+
+**I'd love to connect. Get in Touch →** [ngala.vercel.app](https://ngala.vercel.app) · [LinkedIn](https://linkedin.com/in/ngala-mike)
+
+---
+
+<div align="center">
+
+*Built with ☕ and too many bug crushes, from NBO, Kenya 🇰🇪*
+
+</div>
