@@ -93,6 +93,7 @@ I'm on a deliberate path to fullstack engineering, actively growing in:
 - **Node.js & Express** — building REST APIs, authentication flows, and server-side logic
 - **Python** — scripting, automation, and exploring data-driven backend services
 - **Electron.js** — shipping cross-platform desktop applications powered by web tech
+- **React Native** — taking my React skills mobile, building cross-platform iOS & Android apps
 - **Databases** — PostgreSQL and MongoDB to own the full data layer
 - **Open Source** — contributing to projects I actually use every day
 
