@@ -4,7 +4,7 @@
 ngala@github:~$ whoami
 
 Ngala Mike
-Software Engineer
+Frontend Developer
 
 ngala@github:~$ stack
 
@@ -35,43 +35,17 @@ Currently expanding into **Node.js**, **Python**, and **Electron**, with the goa
 
 ---
 
-## `ngala@github:~$ skills`
+## `experience`
 
-### Languages
+**Frontend Engineer** @ Kiota Logistics
 
-- JavaScript
-- TypeScript
-- Python
-
-### Frontend
-
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-- Styled Components
-
-### Backend
-
-- Node.js
-- Express
-- Firebase
-- Firestore
-
-### Tools
-
-- Git
-- Vite
-- Figma
-- Postman
-
----
+Building modern web applications.
 
 ## `ngala@github:~$ projects`
 
 | Project | Description | Status |
 |----------|-------------|--------|
-| **WhatsApp Web Clone** | Real-time messaging application built with modern web technologies | 🚧 In Progress |
+| **Bankika** | Modern digital banking platform that helps users manage money, move funds, and grow their financial wellbeing | 🚧 In Progress |
 | **Portfolio** | Personal website showcasing projects and experience | ✅ Live |
 | **Twitter Clone** | Social media application powered by Firebase | ✅ Complete |
 | **VS Code Setup** | My development environment configuration | ✅ Complete |
@@ -80,58 +54,6 @@ Currently expanding into **Node.js**, **Python**, and **Electron**, with the goa
 ---
 
 ## `ngala@github:~$ experience`
-
-### Frontend Engineer
-
-**Kiota Logistics**
-
-- Building modern internal web applications
-- Developing reusable React components
-- Integrating REST APIs
-- Collaborating with designers and backend engineers
-- Improving UI consistency and usability
-
----
-
-## `ngala@github:~$ currently-learning`
-
-```
-██████████░░░░░░░░░░  React Architecture
-
-████████░░░░░░░░░░░░  Node.js
-
-██████░░░░░░░░░░░░░░  Python
-
-████░░░░░░░░░░░░░░░░  Electron
-
-██░░░░░░░░░░░░░░░░░░  PostgreSQL
-
-█░░░░░░░░░░░░░░░░░░░  Docker
-```
-
----
-
-## `ngala@github:~$ github-stats`
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ngala21&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngala21&layout=compact&hide_border=true" />
-
-</p>
-
----
-
-## `ngala@github:~$ contact`
-
-🌐 Portfolio → https://ngala.vercel.app
-
-💼 LinkedIn → https://linkedin.com/in/ngala-mike-34775118a
-
-📧 Email → your@email.com
-
----
 
 ```console
 ngala@github:~$ git status
