@@ -53,7 +53,7 @@ Building modern web applications.
 
 ---
 
-## `ngala@github:~$ experience`
+## `ngala@github:~$ git status`
 
 ```console
 ngala@github:~$ git status
